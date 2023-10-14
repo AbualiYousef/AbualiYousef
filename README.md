@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently studying at Palestine Technical University - Kadoorie.<br><br>- 📚 Passionate about software development, currently diving into the world of .NET framework to expand my skillset and build powerful applications<br><br>- 📨 How to reach me:  abualiyousef@outlook.com</p>
+<p align="left">- 🔭 I’m currently studying at Palestine Technical University - Kadoorie.<br><br>- 📚 Passionate about software development, currently diving into the world of .NET framework to expand my skillset and build powerful applications.<br><br>- 📨 How to reach me:  abualiyousef@outlook.com</p>
 <br>
 
 <h3 align="left">Languages and tools:</h3>
