@@ -68,7 +68,8 @@
 <hr /> 
 
 ###
-Statistics 📊
+<h3 align="left">Statistics:</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbualiYousef&show_icons=true&theme=cyan" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbualiYousef&theme=cyan" />
