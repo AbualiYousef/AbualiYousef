@@ -75,9 +75,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbualiYousef&theme=cyan" />
 </p>
 
-<hr /> 
-Profile Views
-
 <p align="center"> <img width="250px" src="https://komarev.com/ghpvc/?username=AbualiYousef&color=00FFFF&style=flat-square&label=Yousef%27s+profile+views" alt="AbualiYousef-profile-views" /> </p>
 
 
