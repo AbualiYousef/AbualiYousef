@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yousef Abuali</h1>
 <h3 align="center">👩‍💻  A Computer Systems Engineering Student</h3>
-<p align="left">- 🔭 I’m currently studying at Palestine Technical University - Kadoorie.<br><br>- 📚 Passionate about software development, currently diving into the world of .NET framework to expand my skillset and build powerful applications.<br><br>- 📨 How to reach me:  abualiyousef@outlook.com</p>
+<p align="left">- 🔭 I’m currently studying at Palestine Technical University - Kadoorie.<br><br>- 📚 Passionate about software development, currently diving into the world of .NET framework to expand my skillset and build powerful applications.<br><br>- ✉️ Reach me on: abualiyousef@outlook.com</p>
 <br>
+<hr /> 
 <h3 align="left">Languages and tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
