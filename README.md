@@ -33,16 +33,16 @@
 <hr /> 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/yousef-abuali/" target="_blank">
+  <a href="https://www.linkedin.com/in/yousef-abuali/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/Yousef.H.AbuAli" target="_blank">
+  <a href="https://www.facebook.com/Yousef.H.AbuAli" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://dev.to/yousefabuali" target="_blank">
+  <a href="https://dev.to/yousefabuali" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
   </a>
-   <a href="https://leetcode.com/YousefAbuali/" target="_blank">
+   <a href="https://leetcode.com/YousefAbuali/" target="_blank" style="text-decoration: none">
   <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=00A69D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo"  />
   </a>
 </div>
