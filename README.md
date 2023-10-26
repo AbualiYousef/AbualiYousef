@@ -35,17 +35,17 @@
 <hr /> 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
-        <a href="https://dev.to/yousefabuali" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yousefabuali" height="30" width="40" />
-        </a>
-        <a href="https://linkedin.com/in/yousefabuali" target="blank">
+        <a href="https://www.linkedin.com/in/yousef-abuali/" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousefabuali" height="30" width="40" />
         </a>
-        <a href="https://fb.com/yousefabuali" target="blank">
+        <a href="https://www.facebook.com/Yousef.H.AbuAli" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousefabuali" height="30" width="40" />
         </a>
         <a href="https://www.leetcode.com/yousefabuali" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yousefabuali" height="30" width="40" />
+        </a>
+              <a href="https://dev.to/yousefabuali" target="blank">
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yousefabuali" height="30" width="40" />
         </a>
     </p>
 <hr /> 
