@@ -1,21 +1,8 @@
-
-###
-
 <h1 align="center">Hi 👋, I'm Yousef Abuali</h1>
-
-###
-
 <h3 align="center">👩‍💻  A Computer Systems Engineering Student</h3>
-
-###
-
 <p align="left">- 🔭 I’m currently studying at Palestine Technical University - Kadoorie.<br><br>- 📚 Passionate about software development, currently diving into the world of .NET framework to expand my skillset and build powerful applications.<br><br>- 📨 How to reach me:  abualiyousef@outlook.com</p>
 <br>
-
 <h3 align="left">Languages and tools:</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
@@ -43,18 +30,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"/>
   <img width="12" />
-          
-
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
+  </a>
 </div>
 <hr /> 
-
-###
-
 <h3 align="left">Connect with me:</h3>
-
-###
-
-
 <div align="left">
   <a href="https://www.linkedin.com/in/yousef-abuali/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -68,18 +52,14 @@
    <a href="https://leetcode.com/YousefAbuali/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=00A69D&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LeetCode logo"  />
   </a>
-
 </div>
 <hr /> 
-
-###
 <h3 align="left">Statistics:</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbualiYousef&show_icons=true&theme=cyan" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbualiYousef&theme=cyan" />
 </p>
-
 <p align="center"> <img width="250px" src="https://komarev.com/ghpvc/?username=AbualiYousef&color=00FFFF&style=flat-square&label=Yousef%27s+profile+views" alt="AbualiYousef-profile-views" /> </p>
 
 
