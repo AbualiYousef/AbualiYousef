@@ -55,8 +55,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbualiYousef&show_icons=true&theme=neon" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbualiYousef&theme=neon" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbualiYousef&layout=compact&langs_count=8&card_width=320&theme=neon" />
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io"/>
 </p>
+<p align="center">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"/>
+</p>
+
 <p align="center"> <img width="250px" src="https://komarev.com/ghpvc/?username=AbualiYousef&color=00FFFF&style=flat-square&label=Yousef%27s+profile+views" alt="AbualiYousef-profile-views" /> </p>
 
 
