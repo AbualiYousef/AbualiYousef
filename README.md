@@ -52,8 +52,9 @@
 <h3 align="left">Statistics:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbualiYousef&show_icons=true&theme=cyan" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbualiYousef&theme=cyan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbualiYousef&show_icons=true&theme=shadow_red" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbualiYousef&theme=shadow_red" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=AbualiYousef&show_icons=true&locale=en&layout=compact&theme=shadow_red" alt="AbualiYousef" />
 </p>
 <p align="center"> <img width="250px" src="https://komarev.com/ghpvc/?username=AbualiYousef&color=00FFFF&style=flat-square&label=Yousef%27s+profile+views" alt="AbualiYousef-profile-views" /> </p>
 
