@@ -56,6 +56,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbualiYousef&theme=neon" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbualiYousef&layout=compact&langs_count=8&card_width=320&theme=neon" />
 </p>
+<hr /> 
 
 <h3 align="left">Visitors:👀</h3>
 
