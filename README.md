@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yousef Abuali</h1>
-<h2 align="center">👩‍💻 A Computer Systems Engineering Student</h2>
-
-<div style="display: flex; flex-direction: row;">
-    <div style="flex: 2; padding: 20px;">
-        <p align="left">- 🔭 I’m currently studying at Palestine Technical University - Kadoorie.<br><br>- 📚 Passionate about software development, currently diving into the world of .NET framework to expand my skillset and build powerful applications.<br><br>- ✉️ Reach me on: abualiyousef@outlook.com</p>
-    </div>
-    <div style="flex: 1; padding: 20px; text-align: center; margin-top: 20px;">
+<div>
+    <h1 align="center">Hi 👋, I'm Yousef Abuali</h1>
+    <h2 align="center">👩‍💻  A Computer Systems Engineering Student</h2>
+    <p align="left">- 🔭 I’m currently studying at Palestine Technical University - Kadoorie.<br><br>- 📚 Passionate about software development, currently diving into the world of .NET framework to expand my skillset and build powerful applications.<br><br>- ✉️ Reach me on: abualiyousef@outlook.com</p>
+    <div align="center">
         <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
     </div>
 </div>
