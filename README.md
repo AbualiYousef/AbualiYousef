@@ -1,7 +1,7 @@
 <div>
     <h1 align="center">Hi 👋, I'm Yousef Abuali</h1>
     <h2 align="center">👩‍💻  A Computer Systems Engineering Student</h2>
-    <p align="left">- 🎓 I’m currently studying at <a href="https://ptuk.edu.ps/ar/">Palestine Technical University - Kadoorie.</a> <br><br>- 🔭🚀 Passionate about software development, currently diving into the world of .NET framework to expand my skillset and build powerful applications.<br><br>- ✉️ Reach me on: abualiyousef@outlook.com</p>
+    <p align="left">- 🎓 I’m currently studying at <a href="https://ptuk.edu.ps/ar/">Palestine Technical University - Kadoorie.</a> <br><br>- 🔭 Passionate about software development, currently diving into the world of .NET framework to expand my skillset and build powerful applications.<br><br>- 📩 Reach me on: abualiyousef@outlook.com</p>
     <div align="center">
         <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
     </div>
