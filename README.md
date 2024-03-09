@@ -1,7 +1,4 @@
 [![StandWithPalestineBadgeLight](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/WeStandWithPalestine_light.svg)](https://techforpalestine.org/learn-more)
-[![committers.top badge](https://user-badge.committers.top/palestine_public/AbualiYousef.svg)](https://user-badge.committers.top/palestine_public/AbualiYousef)
-[![committers.top badge](https://user-badge.committers.top/palestine/AbualiYousef.svg)](https://user-badge.committers.top/palestine/AbualiYousef)
-
 <div>
     <h1 align="center">Hi 👋, I'm Yousef Abuali</h1>
     <h2 align="center">👩‍💻  A Computer Systems Engineering Student</h2>
