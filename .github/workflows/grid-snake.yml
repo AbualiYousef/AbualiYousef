@@ -15,10 +15,7 @@ on:
 
 jobs:
   generate:
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        os: [ubuntu-latest, windows-latest, macos-latest]
+    runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       # generates a snake game from a github user's contributions graph, output a svg animation at <svg_out_path>
