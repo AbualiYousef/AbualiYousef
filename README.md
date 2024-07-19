@@ -1,6 +1,6 @@
 [![StandWithPalestineBadgeLight](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/WeStandWithPalestine_light.svg)](https://techforpalestine.org/learn-more)
 <div>
-    <h1 align="center">Hi 👋, I'm Yousef Abuali</h1>
+    <h1 align="center">Hi 👋, I'm Yousef Abu-Ali</h1>
     <h2 align="center">👩‍💻  A Computer Systems Engineering Student</h2>
     <p align="left">- 🎓 I’m currently studying at <a href="https://ptuk.edu.ps/ar/">Palestine Technical University - Kadoorie.</a> <br><br>- 🔭 Passionate about software development, currently diving into the world of .NET framework to expand my skill set and build powerful applications.<br><br>- 📩 Reach me on: abualiyousef@outlook.com<br><br>- 📄 Know about my experiences <a     href="https://docs.google.com/document/d/1O5cljoAWALxobp4rDJz_j8HoRKcg5IMislzzkItZq0E/edit?usp=sharing">CV</a></p>
 </div>
